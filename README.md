@@ -102,7 +102,7 @@ A real-time chat application built with the MERN stack, featuring a modern inter
 
 <td width="50%" valign="top">
 
-## 🚗 AI Car Mechanic Chatbot
+## 🚗 Motive AI
 
 An AI-powered chatbot that helps users diagnose car-related problems and provides useful guidance for common automotive issues.
 
